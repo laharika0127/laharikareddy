@@ -33,7 +33,7 @@
 ## 📫 Reach Me
 
 - 📧 Email: laharikamarri@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🔗 LinkedIn: [linkedin.com/in/laharikamarri](https://www.linkedin.com/in/laharikamarri/)
 
 ---
 
