@@ -9,8 +9,8 @@
 ## 💼 Skills
 
 - 💻 Languages: Java, Python, C, JavaScript
-- 🌐 Web: HTML, CSS, React.js, Node.js
-- 📊 Tools: Git, GitHub, MySQL, MongoDB, VS Code
+- 🌐 Web: HTML, React.js, Node.js
+- 📊 Tools: Git, GitHub, MySQL, VS Code
 
 ---
 
