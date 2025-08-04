@@ -8,33 +8,45 @@
 
 ## 💼 Skills
 
-- 💻 Languages: Java, Python, C, JavaScript
-- 🌐 Web: HTML, React.js, Node.js
-- 📊 Tools: Git, GitHub, MySQL, VS Code
+- 💻 Languages: Python, Java, JavaScript, C
+- 🤖 AI/ML: Machine Learning, Deep Learning, Data Science
+- 🌐 Web: HTML, CSS, JavaScript
+- 🔧 Tools: Git, GitHub, VS Code
 
 ---
 
 ## 🚀 My Top Projects
 
-1. **Twitter Bot Detection**  
-   A machine learning project that classifies Twitter bots using behavior and metadata.  
-   _Python, scikit-learn, pandas_
+### 🧠 Twitter Bot Detection  
+A machine learning model that identifies bot accounts on Twitter using behavior patterns and metadata analysis.  
+**Tech Stack:** Python, Pandas, Scikit-learn  
+🔗 *GitHub link coming soon*
 
-2. **Student Result System**  
-   A Java-based web app to store and manage student exam results.  
-   _Java, MySQL, JDBC_
+### 🔐 Graphical Password Authentication System  
+A secure, image-based graphical password authentication system to enhance traditional login methods.  
+**Tech Stack:** Python, Tkinter  
+🔗 *GitHub link coming soon*
 
-3. **Weather App**  
-   Displays real-time weather using an external API.  
-   _HTML, CSS, JavaScript_
+---
+
+## 🌐 Portfolio & Introduction
+
+- 🔗 [**View My Live Portfolio Website**](https://laharika0127.github.io/portfolio)  
+  A personal website to showcase my projects, skills, and contact details.
+
+- 📘 [**Introduction Repository**](https://github.com/laharika0127/introduction)  
+  A brief intro about me — background, interests, and future goals.
 
 ---
 
 ## 📫 Reach Me
 
-- 📧 Email: laharikamarri@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/laharikamarri](https://www.linkedin.com/in/laharikamarri/)
+- 📧 Email: laharikamari@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/laharikamarri](https://www.linkedin.com/in/laharikamarri/)  
+- 💻 GitHub: [github.com/laharika0127](https://github.com/laharika0127)  
+- 🧮 LeetCode: [leetcode.com/u/laharika27](https://leetcode.com/u/laharika27)  
+- 📄 [Resume (Drive link)](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)
 
 ---
 
-_⭐ I’m open to SDE/ML/Web Dev internships & jobs!_
+_⭐ I’m open to SDE/ML/Web Dev internships & job opportunities!_
