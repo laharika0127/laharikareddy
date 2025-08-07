@@ -15,17 +15,17 @@
 
 ---
 
-## 🚀 My Top Projects
+## 🚀 Top Projects
 
 ### 🧠 Twitter Bot Detection  
 A machine learning model that identifies bot accounts on Twitter using behavior patterns and metadata analysis.  
 **Tech Stack:** Python, Pandas, Scikit-learn  
-🔗 *GitHub link coming soon*
+🔗 [**View on GitHub**](https://github.com/laharika0127/detecting-twitter-bots)
 
 ### 🔐 Graphical Password Authentication System  
 A secure, image-based graphical password authentication system to enhance traditional login methods.  
 **Tech Stack:** Python, Tkinter  
-🔗 *GitHub link coming soon*
+🔗 [**View on GitHub**](https://github.com/laharika0127/graphical-password-authentication)
 
 ---
 
