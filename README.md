@@ -29,7 +29,7 @@ A secure, image-based graphical password authentication system to enhance tradit
 
 ---
 
-## 🌐 Portfolio & Introduction
+## 🌐 Portfolio 
 
 - 🔗 [**View My Live Portfolio Website**](https://laharika0127.github.io/portfolio)  
   A personal website to showcase my projects, skills, and contact details.
