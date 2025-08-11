@@ -8,9 +8,8 @@
 
 ## 💼 Skills
 
-- 💻 Languages: Python, Java, JavaScript, C
+- 💻 Languages: Python, Java, C, HTML
 - 🤖 AI/ML: Machine Learning, Deep Learning, Data Science
-- 🌐 Web: HTML, CSS, JavaScript
 - 🔧 Tools: Git, GitHub, VS Code
 
 ---
